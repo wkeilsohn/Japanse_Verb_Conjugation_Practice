@@ -1,2 +1,2 @@
-# Japanse_Verb_Conjugation_Pratice
-A CMD app for practicing japanese verb conjugation. 
+# Japanese Verb Conjugation Practice
+A CMD app for practicing Japanese verb conjugation. 
